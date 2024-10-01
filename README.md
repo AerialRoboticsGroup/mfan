@@ -1,4 +1,4 @@
-# contrastive-forward-forward-algorithm (CFF)
+# contrastive-forward-forward-algorithm (CFF) / MetaMorphic Forward Adaptation Network (MFAN)
 The CFF model is tested in three phases:
 
 * 01: (Do MNIST Classification) Prove feasibility and continuous data processing
